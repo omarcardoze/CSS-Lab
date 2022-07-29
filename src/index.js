@@ -14,7 +14,7 @@ days.map(({ title, description }, index ) => {
     root.innerHTML += `
          <div class="project-card">
             <div class="card-title">
-                <a class="title" href="/days/day0${day}/day0${day}.html">${title}</a>
+                <a class="title" href="/days/day0${day}/">${title}</a>
                 <span class="text-white day-challenge">${day}</span>
             </div>
             <p class="card-description">${description}</p>
