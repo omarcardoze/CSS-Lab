@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+}
+
+.container {
+    width: min(90%, 600px);
+    margin-inline: auto;
+    background-color: rgb(131, 0, 238);
+    color: #fff;
+}
+
+.info {
+    padding: 10px;
+}
