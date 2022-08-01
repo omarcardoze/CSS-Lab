@@ -2,8 +2,8 @@ const root = document.getElementById('root')
 
 const days = [
     {
-        title: 'Comienzo el Lunes 1 de Agosto',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, pariatur.'
+        title: 'Uso del width: min(x, x) para el contenedor',
+        description: 'Es un simple contenedor pero usando la función min() de CSS puede ser muy útil.'
     },
 ]
 
