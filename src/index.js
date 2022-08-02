@@ -5,6 +5,10 @@ const days = [
         title: 'Uso del width: min(x, x) para el contenedor',
         description: 'Es un simple contenedor pero usando la función min() de CSS puede ser muy útil.'
     },
+    {
+        title: 'Card basica',
+        description: 'Es un simple contenedor pero usando la función min() de CSS puede ser muy útil.'
+    },
 ]
 
 days.map(({ title, description }, index ) => {
