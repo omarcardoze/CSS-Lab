@@ -6,8 +6,8 @@ const days = [
         description: 'Es un simple contenedor pero usando la función min() de CSS puede ser muy útil.'
     },
     {
-        title: 'Card basica',
-        description: 'Es un simple contenedor pero usando la función min() de CSS puede ser muy útil.'
+        title: 'Galería de imágenes',
+        description: 'Galería de imágenes sencilla sin usar flex ni css grid.'
     },
 ]
 
