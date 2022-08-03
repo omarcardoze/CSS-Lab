@@ -1,7 +1,7 @@
 ## 📌 El principal objetivo es mejorar en el responsive design.
 Inicio: 1 de Agosto del 2022
 
-## Día 1
+# Día 1
 En este primer ejercicio hago un contenedor super básico pero que muy útil para los proyectos.
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day01/)
@@ -13,3 +13,9 @@ Galería de imágenes sin utilizar flexbox ni css grid para lograr que se adapte
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day02/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day02)
+
+# Día 3
+Header donde utilizo la función de css clamp() para adaptar los textos.
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day03/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day03)

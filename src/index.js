@@ -9,6 +9,10 @@ const days = [
         title: 'Galería de imágenes',
         description: 'Galería de imágenes sencilla sin usar flex ni css grid.'
     },
+    {
+        title: 'Header con texto e imágen responsiva',
+        description: 'En este header utilizo la función de css clamp() para adaptar los textos.'
+    },
 ]
 
 days.map(({ title, description }, index ) => {
