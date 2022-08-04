@@ -19,3 +19,9 @@ Header donde utilizo la función de css clamp() para adaptar los textos.
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day03/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day03)
+
+# Día 4
+El texto tiene la uniad relativa de css vw que cambia según el viewport del dispositivo.
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day04/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day04)

@@ -13,6 +13,10 @@ const days = [
         title: 'Header con texto e imágen responsiva',
         description: 'En este header utilizo la función de css clamp() para adaptar los textos.'
     },
+    {
+        title: 'Texto responsivo 2 + degradado',
+        description: 'El texto tiene la uniad relativa de css vw que cambia según el viewport del dispositivo.'
+    },
 ]
 
 days.map(({ title, description }, index ) => {
