@@ -17,6 +17,10 @@ const days = [
         title: 'Texto responsivo 2 + degradado',
         description: 'El texto tiene la uniad relativa de css vw que cambia según el viewport del dispositivo.'
     },
+    {
+        title: 'Sitio tipo blog sencillo',
+        description: 'Utilizo CSS Grid con template para el layout'
+    },
 ]
 
 days.map(({ title, description }, index ) => {

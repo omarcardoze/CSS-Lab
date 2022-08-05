@@ -1,4 +1,4 @@
-## 📌 El principal objetivo es mejorar en el responsive design.
+# 📌 El principal objetivo es mejorar en el responsive design.
 Inicio: 1 de Agosto del 2022
 
 # Día 1
@@ -25,3 +25,9 @@ El texto tiene la uniad relativa de css vw que cambia según el viewport del dis
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day04/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day04)
+
+# Día 5
+Sitio tipo blog sencillo utilizando template de CSS grid.
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day05/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day05)
