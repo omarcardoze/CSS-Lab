@@ -82,3 +82,10 @@ input:focus {
 .btn-subscribe:hover {
     background: rgb(50, 179, 50);
 }
+
+@media (max-width: 640px) {
+    .newsletter {
+        height: auto;
+        padding: 20px 0;
+    }
+}
