@@ -31,3 +31,9 @@ Sitio tipo blog sencillo utilizando template de CSS grid.
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day05/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day05)
+
+# Día 6
+Sitio tipo blog sencillo utilizando template de CSS grid.
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day06/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day06)

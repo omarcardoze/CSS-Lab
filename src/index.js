@@ -21,6 +21,10 @@ const days = [
         title: 'Sitio tipo blog sencillo',
         description: 'Utilizo CSS Grid con template para el layout'
     },
+    {
+        title: 'Dia 6',
+        description: 'Dia 6'
+    },
 ]
 
 days.map(({ title, description }, index ) => {
