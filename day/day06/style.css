@@ -14,17 +14,18 @@
     display: grid;
     place-content: center;
     background-color: rgb(34, 36, 58);
+    /* overflow-x: hidden; */
 }
 
 .newsletter {
+    width: auto;
     max-width: 800px;
     height: 50vh;
-    background-color: rgb(245, 229, 12);
+    background-color: rgb(238, 224, 29);
     border-radius: 20px;
     margin: 0 20px;
 }
 
-.newsletter-ilustration {}
 
 .newsletter-content {
     width: 80%;
@@ -47,10 +48,10 @@
 input {
     font-size: 1.2em;
     display: block;
-    width: 400px;
+    width: 100%;
     margin: 20px 0;
     padding: 5px 10px;
-    border: 4px solid brown;
+    border: 2px solid brown;
     color: rgb(34, 36, 58);
     border-radius: 0;
     transition: border-color .25s ease, box-shadow .25s ease;

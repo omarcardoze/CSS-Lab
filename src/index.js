@@ -22,8 +22,8 @@ const days = [
         description: 'Utilizo CSS Grid con template para el layout'
     },
     {
-        title: 'Dia 6',
-        description: 'Dia 6'
+        title: 'Newsletters',
+        description: 'Newsletter de un blog'
     },
 ]
 
