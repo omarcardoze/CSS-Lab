@@ -25,6 +25,10 @@ const days = [
         title: 'Newsletters',
         description: 'Newsletter de un blog'
     },
+    {
+        title: 'Acordeón de preguntas frecuentas',
+        description: 'Uso del details de css'
+    },
 ]
 
 days.map(({ title, description }, index ) => {
