@@ -29,6 +29,10 @@ const days = [
         title: 'Acordeón de preguntas frecuentas',
         description: 'Uso del details de css'
     },
+    {
+        title: 'Formulario de Reservación',
+        description: 'Formulario para reservación de hoteles'
+    },
 ]
 
 days.map(({ title, description }, index ) => {

@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url(https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-container {
+    border-top-left-radius: 200px;
+    border-bottom-left-radius: 40px;
+    width: 1000px;
+    height: 500px;
+    background-image: radial-gradient(circle 523px at 7.1% 19.3%, rgba(147, 15, 255, 1) 2%, rgba(5, 49, 255, 1) 100.7%);
+    overflow: hidden;
+    padding: 50px 0;
+    transition: border-top-left-radius .4s ease-in-out;
+    display: grid;
+    place-content: center;
+}
+
+.title {
+    font-size: 3em;
+}
+
+.inputs-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.form-header {
+    margin-bottom: 80x;
+}
+
+.title,
+.subtitle {
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 4px 0;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    margin: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(245, 239, 239);
+    padding: 10px 10px;
+}
+
+.btn {
+    width: auto;
+    border: 0;
+    outline: none;
+    border-radius: 0;
+    padding: 15px 0;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    background: rgb(11, 177, 11);
+    color: #fff;
+    cursor: pointer;
+    transition: background .5s ease;
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.btn:hover {
+    background: rgb(8, 207, 8);
+}
+
+@media (max-width: 640px) {
+
+    .container {
+        padding: 0 5px;
+    }
+
+    .form-container {
+        border-top-left-radius: 50px;
+        border-bottom-left-radius: 0;
+    }
+
+    .input-bottom {
+        width: 100%;
+    }
+
+    input {
+        width: 90%;
+    }
+}

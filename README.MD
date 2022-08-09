@@ -43,3 +43,9 @@ Acordeón de preguntas frecuentes
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day07/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day07)
+
+# Día 8
+Formulario de reservación
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day08/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day08)
