@@ -34,8 +34,8 @@ const days = [
         description: 'Formulario para reservación de hoteles'
     },
     {
-        title: 'Dia 9',
-        description: 'Dia 9'
+        title: 'Clone GitHub login',
+        description: 'Clone de la página de inicio de sesión de GitHub.'
     },
 ]
 
