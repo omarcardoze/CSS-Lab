@@ -65,6 +65,7 @@ input {
     border-radius: 5px;
     background-color: rgb(245, 239, 239);
     padding: 10px 10px;
+    transition: width .5s ease-in-out;
 }
 
 .btn {

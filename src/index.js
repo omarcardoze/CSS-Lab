@@ -33,6 +33,10 @@ const days = [
         title: 'Formulario de Reservación',
         description: 'Formulario para reservación de hoteles'
     },
+    {
+        title: 'Dia 9',
+        description: 'Dia 9'
+    },
 ]
 
 days.map(({ title, description }, index ) => {
