@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    color: aliceblue;
+}
+
+.container {
+    display: flex;
+    overflow-x: scroll;
+    padding: 24px;
+    width: 300px;
+    height: 400px;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 24px;
+    border-radius: 10px;
+    gap: 12px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.item {
+    flex: 0 0 100%;
+    padding: 24px;
+    border-radius: 8px;
+    scroll-snap-align: start;
+    background: linear-gradient(180deg, rgb(75, 22, 200) 0%, rgb(78, 46, 218) 100%);
+}
+
+img {
+    width: 100%;
+}

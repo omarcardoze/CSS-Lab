@@ -55,3 +55,9 @@ Clone de la página de inicio de sesión de GitHub.
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day09/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day09)
+
+# Día 10
+Card con scroll horizontal
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day10/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day10)

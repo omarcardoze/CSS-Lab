@@ -37,6 +37,10 @@ const days = [
         title: 'Clone GitHub login',
         description: 'Clone de la página de inicio de sesión de GitHub.'
     },
+    {
+        title: 'Card con scroll horizontal',
+        description: 'Uso del scroll-snap de css'
+    },
 ]
 
 days.map(({ title, description }, index ) => {
@@ -46,7 +50,7 @@ days.map(({ title, description }, index ) => {
     root.innerHTML += `
          <div class="project-card">
             <div class="card-title">
-                <a class="title" href="/day/day0${day}">${title}</a>
+                <a class="title" href="/day/day${day}">${title}</a>
                 <span class="text-white day-challenge">${day}</span>
             </div>
             <p class="card-description">${description}</p>
