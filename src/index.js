@@ -41,6 +41,10 @@ const days = [
         title: 'Card con scroll horizontal',
         description: 'Uso del scroll-snap de css'
     },
+    {
+        title: 'Plan de precios de servicios',
+        description: 'Se muestran los precios y características de un servicio'
+    },
 ]
 
 days.map(({ title, description }, index ) => {

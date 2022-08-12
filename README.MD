@@ -61,3 +61,13 @@ Card con scroll horizontal
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day10/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day10)
+
+# Día 11
+Se muestran los precios y características de un servicio
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day11/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day11)
+
+
+
+
