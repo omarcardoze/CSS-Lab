@@ -68,6 +68,11 @@ Se muestran los precios y características de un servicio
 - [Ver ejemplo](https://30dcss.netlify.app/day/day11/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day11)
 
+# Día 12
+Grid personalizado con fotos y frases de naturaleza
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day12/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day12)
 
 
 

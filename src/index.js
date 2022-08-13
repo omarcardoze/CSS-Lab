@@ -45,6 +45,10 @@ const days = [
         title: 'Plan de precios de servicios',
         description: 'Se muestran los precios y características de un servicio'
     },
+    {
+        title: 'Grid personalizado con fotos y frases de naturaleza',
+        description: 'Hecho con Grid template'
+    },
 ]
 
 days.map(({ title, description }, index ) => {
