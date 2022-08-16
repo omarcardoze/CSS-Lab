@@ -49,6 +49,10 @@ const days = [
         title: 'Grid personalizado con fotos y frases de naturaleza',
         description: 'Hecho con Grid template'
     },
+    {
+        title: 'Card de testimoninos',
+        description: 'Card de testimonios de clientes'
+    },
 ]
 
 days.map(({ title, description }, index ) => {

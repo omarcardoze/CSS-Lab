@@ -75,4 +75,14 @@ Grid personalizado con fotos y frases de naturaleza
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day12)
 
 
+# Día 13
+Card de testimonios
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day13/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day13)
+
+
+
+
+
 

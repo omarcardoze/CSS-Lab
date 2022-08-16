@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: rgb(27, 27, 27);
+}
+
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid salmon;
+}
+
+h2 {
+    margin: 100px 0;
+    font-size: 4vh;
+    color: blueviolet;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+}
+
+.testimonials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    position: relative;
+    padding: 0 10px;
+    margin-bottom: 5px;
+}
+
+.testimonial {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    width: 400px;
+    padding: 10px;
+    height: 600px;
+    border-radius: 8px;
+    border-radius: 10p;
+    justify-content: space-around;
+    z-index: 100;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+}
+
+.testimonial p {
+    color: rgb(31, 31, 31);
+}
+
+.testimonial h3 {
+    font-size: 1.6em;
+    color: rgb(43, 42, 42);
+}
+
+.testimonial p {
+    font-size: 1.2em;
+    color: rgb(95, 95, 95);
+}
+
+.profile {
+    margin-bottom: 10px;
+}
+
+.background {
+    background: rgb(75, 18, 221);
+    background: linear-gradient(266deg, rgba(75, 18, 221, 1) 0%, rgba(235, 12, 76, 1) 100%);
+    width: 90%;
+    height: 500px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 10px 10px 0 0;
+
+}
+
+@media (max-width: 1280px) {
+    .background {
+        display: none;
+    }
+}
