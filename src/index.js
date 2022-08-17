@@ -53,6 +53,10 @@ const days = [
         title: 'Card de testimoninos',
         description: 'Card de testimonios de clientes'
     },
+    {
+        title: 'Tabla de datos',
+        description: 'Tabla de datos responsiva'
+    },
 ]
 
 days.map(({ title, description }, index ) => {

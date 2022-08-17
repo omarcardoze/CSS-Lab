@@ -81,7 +81,11 @@ Card de testimonios
 - [Ver ejemplo](https://30dcss.netlify.app/day/day13/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day13)
 
+# Día 14
+Tabla de datos responsiva
 
+- [Ver ejemplo](https://30dcss.netlify.app/day/day14/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day14)
 
 
 
