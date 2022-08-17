@@ -32,7 +32,7 @@ td {
 }
 
 .table {
-    width: 80%;
+    width: 100%;
 }
 
 .table-content {
@@ -42,6 +42,10 @@ td {
 @media (min-width: 640px) {
     .table-row:hover {
         background-color: rgb(214, 242, 253);
+    }
+
+    .table {
+        width: 80%;
     }
 }
 
