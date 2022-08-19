@@ -87,6 +87,12 @@ Tabla de datos responsiva
 - [Ver ejemplo](https://30dcss.netlify.app/day/day14/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day14)
 
+# Día 15
+Animación sencilla de SVG con CSS
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day15/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day15)
+
 
 
 

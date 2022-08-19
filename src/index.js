@@ -57,6 +57,10 @@ const days = [
         title: 'Tabla de datos',
         description: 'Tabla de datos responsiva'
     },
+    {
+        description: 'Animación sencilla',
+        title: 'Animación sencilla de SVG con CSS',
+    },
 ]
 
 days.map(({ title, description }, index ) => {
