@@ -93,6 +93,12 @@ Animación sencilla de SVG con CSS
 - [Ver ejemplo](https://30dcss.netlify.app/day/day15/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day15)
 
+# Día 16
+Menú inferior como app móvil
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day16/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day16)
+
 
 
 

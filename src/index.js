@@ -61,6 +61,10 @@ const days = [
         description: 'Animación sencilla',
         title: 'Animación sencilla de SVG con CSS',
     },
+    {
+        description: 'Menú inferior',
+        title: 'Menú inferior como app móvil',
+    },
 ]
 
 days.map(({ title, description }, index ) => {
