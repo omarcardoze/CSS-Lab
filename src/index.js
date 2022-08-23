@@ -65,6 +65,10 @@ const days = [
         description: 'Menú inferior',
         title: 'Menú inferior como app móvil',
     },
+    {
+        description: 'Modal',
+        title: 'Modal con solo CSS sin JS',
+    },
 ]
 
 days.map(({ title, description }, index ) => {
