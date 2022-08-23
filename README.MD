@@ -102,6 +102,6 @@ Menú inferior como app móvil
 # Día 16
 Modal con solo CSS sin JS
 
-- [Ver ejemplo](https://30dcss.netlify.app/day/day16/)
-- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day16)
+- [Ver ejemplo](https://30dcss.netlify.app/day/day17/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day17)
 
