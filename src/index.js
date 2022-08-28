@@ -73,6 +73,10 @@ const days = [
         description: 'barra de progreso con el scroll',
         title: 'Barra de progreso con el scroll',
     },
+    {
+        description: 'Header waves',
+        title: 'Waves con svg',
+    },
 ]
 
 days.map(({ title, description }, index ) => {

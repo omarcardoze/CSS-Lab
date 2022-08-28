@@ -111,3 +111,9 @@ barra de progreso con el scroll
 - [Ver ejemplo](https://30dcss.netlify.app/day/day18/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day18)
 
+# Día 19
+Header waves con svg
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day19/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day19)
+
