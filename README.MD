@@ -1,4 +1,4 @@
-# 📌 El principal objetivo es mejorar en el responsive design.
+# 📌 Mini proyectos con CSS puro
 Inicio: 1 de Agosto del 2022
 
 # Día 1
@@ -104,4 +104,10 @@ Modal con solo CSS sin JS
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day17/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day17)
+
+# Día 18
+barra de progreso con el scroll
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day18/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day18)
 

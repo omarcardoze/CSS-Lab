@@ -1,0 +1,60 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1,
+h2 {
+    margin: 1.5em 0;
+    font-size: 2.2rem;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    background: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding-left: 100px;
+}
+
+main {
+    margin: 103px 0 0 0;
+    padding: 0 103px;
+}
+
+/* Creates gradient that covers the body */
+body {
+    background: linear-gradient(to right top, red 50%, white 50%);
+    background-size: 100% calc(100% - 100vh + 103px);
+    background-repeat: no-repeat;
+
+    line-height: 1.5;
+    font-family: ;
+    margin: 0;
+}
+
+
+body:before {
+    content: '';
+    position: fixed;
+    top: 103px;
+    bottom: 0;
+    width: 100%;
+    z-index: -1;
+    /* Positions the background behind all the text, but covers body's background. */
+    background: white;
+}

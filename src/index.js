@@ -69,6 +69,10 @@ const days = [
         description: 'Modal',
         title: 'Modal con solo CSS sin JS',
     },
+    {
+        description: 'barra de progreso con el scroll',
+        title: 'Barra de progreso con el scroll',
+    },
 ]
 
 days.map(({ title, description }, index ) => {
