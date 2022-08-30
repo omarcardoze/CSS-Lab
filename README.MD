@@ -117,3 +117,9 @@ Header waves con svg
 - [Ver ejemplo](https://30dcss.netlify.app/day/day19/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day19)
 
+# Día 20
+Página de error 404
+
+- [Ver ejemplo](https://30dcss.netlify.app/day/day20/)
+- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day20)
+

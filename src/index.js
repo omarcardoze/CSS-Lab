@@ -77,6 +77,10 @@ const days = [
         description: 'Header waves',
         title: 'Waves con svg',
     },
+    {
+        description: 'Página de error 404',
+        title: 'Página de error',
+    },
 ]
 
 days.map(({ title, description }, index ) => {
