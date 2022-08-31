@@ -58,28 +58,32 @@ const days = [
         description: 'Tabla de datos responsiva'
     },
     {
-        description: 'Animación sencilla',
         title: 'Animación sencilla de SVG con CSS',
+        description: 'Animación sencilla',
     },
     {
-        description: 'Menú inferior',
         title: 'Menú inferior como app móvil',
+        description: 'Menú inferior',
     },
     {
-        description: 'Modal',
         title: 'Modal con solo CSS sin JS',
+        description: 'Modal',
     },
     {
-        description: 'barra de progreso con el scroll',
         title: 'Barra de progreso con el scroll',
+        description: 'barra de progreso con el scroll',
     },
     {
-        description: 'Header waves',
         title: 'Waves con svg',
+        description: 'Header waves',
     },
     {
-        description: 'Página de error 404',
         title: 'Página de error',
+        description: 'Página de error 404',
+    },
+    {
+        title: '?',
+        description: 'DIA21',
     },
 ]
 
