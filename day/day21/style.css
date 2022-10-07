@@ -3,7 +3,32 @@
 *:after {
     box-sizing: border-box;
     margin: 0;
-    color: rgb(10, 10, 10);
+    color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.container {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
+.card {
+    width: 300px;
+    height: 400px;
+    background: #111;
+    text-align: center;
+    padding: 5px;
+    position: relative;
+    isolation: auto;
+}
+
+.card::before {
+    content: open-quote;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 20rem;
+    color: #242424;
+}
