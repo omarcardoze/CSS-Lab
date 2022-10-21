@@ -1,5 +1,4 @@
 # 📌 Mini proyectos con CSS puro
-Inicio: 1 de Agosto del 2022
 
 # Proyecto 1
 En este primer ejercicio hago un contenedor super básico pero que muy útil para los proyectos.
@@ -122,10 +121,4 @@ Página de error 404
 
 - [Ver ejemplo](https://30dcss.netlify.app/day/day20/)
 - [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day20)
-
-# Proyecto 21
-???
-
-- [Ver ejemplo](https://30dcss.netlify.app/day/day21/)
-- [Ver código](https://github.com/OmarCardoze/30-dias-de-CSS/tree/main/day/day21)
 
