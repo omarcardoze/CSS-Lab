@@ -89,13 +89,13 @@ const days = [
 
 days.map(({ title, description }, index ) => {
 
-    let day = index + 1
+    let proyecto = index + 1
 
     root.innerHTML += `
          <div class="project-card">
             <div class="card-title">
-                <a class="title" href="/day/day${day}">${title}</a>
-                <span class="text-white day-challenge">${day}</span>
+                <a class="title" href="/proyectos/proyecto${proyecto}">${title}</a>
+                <span class="text-white day-challenge">${proyecto}</span>
             </div>
             <p class="card-description">${description}</p>
         </div>
