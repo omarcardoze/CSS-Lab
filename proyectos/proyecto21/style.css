@@ -4,31 +4,38 @@
     box-sizing: border-box;
     margin: 0;
     color: rgb(255, 255, 255);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     height: 100vh;
-    display: grid;
-    place-content: center;
+    gap: 3;
 }
 
 .card {
     width: 300px;
-    height: 400px;
-    background: #111;
+    height: auto;
     text-align: center;
     padding: 5px;
-    position: relative;
-    isolation: auto;
+    background-color: rgb(26, 115, 218);
+    margin-right: 10px;
 }
 
-.card::before {
-    content: open-quote;
-    position: absolute;
-    top: 0;
-    left: 0;
-    font-size: 20rem;
-    color: #242424;
+.card img {
+    width: 100%;
+    display: block;
+}
+
+.card_preview-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: rgb(241, 227, 227);
 }
