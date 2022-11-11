@@ -3,56 +3,56 @@
 # Proyecto 1
 En este primer ejercicio hago un contenedor super básico pero que muy útil para los proyectos.
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects1/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto1/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto1)
 
 
 # Proyecto 2
 Galería de imágenes sin utilizar flexbox ni css grid para lograr que se adapte a cualquier dispositivo
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects2/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto2/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto2)
 
 # Proyecto 3
 Header donde utilizo la función de css clamp() para adaptar los textos.
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects3/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto3/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto3)
 
 # Proyecto 4
 El texto tiene la uniad relativa de css vw que cambia según el viewport del dispositivo.
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects4/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto4/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto4)
 
 # Proyecto 5
 Sitio tipo blog sencillo utilizando template de CSS grid.
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects5/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto5/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto5)
 
 # Proyecto 6
 Newsletter
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects6/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto6/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto6)
 
 # Proyecto 7
 Acordeón de preguntas frecuentes
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects7/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto7/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto7)
 
 # Proyecto 8
 Formulario de reservación
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects8/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto8/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto8)
 
 # Proyecto 9
 Clone de la página de inicio de sesión de GitHub.
 
-- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyects9/)
+- [Ver ejemplo](https://30dcss.netlify.app/proyectos/proyecto9/)
 - [Ver código](https://github.com/OmarCardoze/CSS-Lab/tree/main/proyectos/proyecto9)
 
 # Proyecto 10
